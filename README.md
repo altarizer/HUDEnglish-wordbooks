@@ -2,6 +2,7 @@
 
 wordfile format example 
 
+```json
 {
   "title":{
     "common":"과일_fruits",
@@ -21,3 +22,4 @@ wordfile format example
   }, ...
   ]
 }
+```
