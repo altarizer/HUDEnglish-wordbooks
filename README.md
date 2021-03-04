@@ -1,6 +1,6 @@
 # Wordbooks for HUDEnglish
 
-wordfile format example 
+* Wordfile format example 
 
 ```json
 {
